@@ -1,0 +1,9 @@
+pic1   14
+pic2   17
+pic3   15
+pic4   17
+pic5   15
+pic6   17
+pic7   14
+pic8   +20
+pic9   14
